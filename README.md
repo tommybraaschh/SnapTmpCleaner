@@ -10,3 +10,5 @@ _This script will spawn itself as root there is no need to run it via sudo_
 To give the script the proper privileges make sure to run "sudo chmod 777 SnapTmpClearer.sh"
 
 To execute this script run "sh SnapTmpClear.sh" in the directory it's stored in
+
+If cd spits back it can not find the directory, modify the directory in the script.
